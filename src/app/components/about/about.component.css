@@ -1,0 +1,19 @@
+.about {
+    padding: 2rem;
+    background-color: #f9f9f9;
+    color: #333;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 2rem auto;
+  }
+  
+  .about h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
